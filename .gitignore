@@ -1,0 +1,14 @@
+# Compiled executables
+log_analyzer
+a.out
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Build directory
+build/
+
+# macOS files
+.DS_Store
